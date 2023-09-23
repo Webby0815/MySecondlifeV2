@@ -1,13 +1,15 @@
 <ul>
-<li>Update News 30.08.2023</li>
+<li>Update News 23.09.2023</li>
 <li>»  Update Garagen (Fahtezeuge in Priv.Garagen sollten nach dem neustart nun dableiben)</li>
-<li>»  Jahrmarkt V.1.0 Installiert und fertig zum testen</li>
-<li>»  Einfuhrsteuer für Fahrzeuge eingebunden</li>
-<li>»  Inventar Update</li>
-<li>»  Affiliate System Belohnungen angepasst</li>
-<li>»  Popup meldungen eingebunden</li>
-<li>»  Tägliche Belohnungen gefixxt</li>
-<li>»  Schutzwesten gefixt </li>
-<li>»  div.fixes im System </li>
+<li>»  bei Festnahmen vom LSPD wird Handy und Funk automatisch deaktiviert</li>
+<li>»  bei Festgenommenen wir automatisch angeschnallt im Fahrzeug</li>
+<li>»  NPC Anfragen an die Regierung,LSPD ,MD,Mechaniker gefixxt</li>
+<li>»  bei IM Dienst / ausser dienst automatischer Funkkanal gesichert 9 </li>
+<li>»  Funkchannels gefixxt</li>
+<li>»  BMW aus dem Programm genommen</li>
+<li>»  div.Garagen eingestellt</li>
+<li>»  E-Rent (bei grünen Männchen) eingebaut</li>
+<li>»  Funklautstärke erhöht</li>
+
 
 </ul>
